@@ -12,12 +12,6 @@
 - 🌐 Swagger-powered API documentation
 - 🎨 Branded logo and documentation assets
 
-## 📁 Project Structure
-
-VaultEdge/ ├── VaultEdge.API/ # ASP.NET Core Web API entry point ├── VaultEdge.Core/ # Business logic and interfaces ├── VaultEdge.Data/ # EF Core context and repositories ├── VaultEdge.Security/ # JWT, password hashing, token validation ├── VaultEdge.Common/ # Utilities, extensions, constants ├── VaultEdge.Tests/ # xUnit test suite └── VaultEdge.Docs/ # README, API docs, logo
-
-Code
-
 ## ▶️ Getting Started
 
 ```bash
