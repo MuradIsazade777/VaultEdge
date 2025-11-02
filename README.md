@@ -21,7 +21,7 @@ Visit Swagger UI at:
 
 Code
 http://localhost:5289/swagger
-🧪 Running Tests
+🧪 Running Tests 
 bash
 cd VaultEdge.Tests
 dotnet test
