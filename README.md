@@ -3,7 +3,7 @@
 **VaultEdge** is a secure, modular, and scalable backend system built with C#. It provides robust user authentication, encrypted vault storage, and a clean RESTful API architecture. Designed for developers who value clarity, extensibility, and performance.
 
 ## 🚀 Features
-
+ 
 - 🔐 JWT-based authentication and token lifecycle
 - 🗄️ Vault item CRUD operations 
 - 👥 User management and role support
