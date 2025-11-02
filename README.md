@@ -5,7 +5,7 @@
 ## 🚀 Features
  
 - 🔐 JWT-based authentication and token lifecycle
-- 🗄️ Vault item CRUD operations 
+- 🗄️ Vault item CRUD operations  
 - 👥 User management and role support
 - 🧩 Modular service and repository architecture
 - 🧪 Unit and integration tests with xUnit
