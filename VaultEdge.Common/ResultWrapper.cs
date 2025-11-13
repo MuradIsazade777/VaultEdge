@@ -1,4 +1,4 @@
-namespace VaultEdge.Common
+namespace VaultEdge.Common 
 {
     public class ResultWrapper<T>
     {
